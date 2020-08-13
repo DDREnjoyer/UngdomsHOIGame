@@ -61,6 +61,11 @@ set_country_flag = monroe_doctrine
 }
 
 set_convoys = 10
+
+add_ideas = {
+	nerf
+}
+
 set_politics = {
 	ruling_party = fascism
 	last_election = "1936.1.1"
