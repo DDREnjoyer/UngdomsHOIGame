@@ -34,6 +34,10 @@ if = {
 }
 set_country_flag = monroe_doctrine
 
+add_ideas = {
+	nerf
+}
+
 set_convoys = 5
 
 1939.1.1 = {
