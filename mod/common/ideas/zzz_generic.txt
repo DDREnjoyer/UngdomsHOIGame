@@ -102,6 +102,25 @@ ideas = {
 	# Special ones that can be applied on other countries through focus system.
 	country = {
 	
+		nerf = {
+			allowed = {
+				always = yes
+			}
+			
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 2
+				conscription = -2
+				industrial_capacity_factory = -2
+				industrial_capacity_dockyard = -2
+			}
+		}
+	
 		nationalism = {
 			
 			allowed = {
