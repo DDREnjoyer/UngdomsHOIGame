@@ -103,6 +103,10 @@ set_convoys = 5
 	}
 }
 
+add_ideas = {
+	nerf
+}
+
 set_politics = {
 	ruling_party = fascism
 	last_election = "1931.10.11"

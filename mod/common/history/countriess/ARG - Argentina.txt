@@ -142,6 +142,10 @@ set_popularities = {
 	neutrality = 78
 }
 
+add_ideas = {
+	nerf
+}
+
 create_country_leader = {
 	name = "Agustín Pedro Justo"
 	desc = "POLITICS_AGUSTIN_PEDRO_JUSTO_DESC"

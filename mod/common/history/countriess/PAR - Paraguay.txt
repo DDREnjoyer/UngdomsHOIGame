@@ -69,6 +69,10 @@ set_popularities = {
 	communism = 75
 }
 
+add_ideas = {
+	nerf
+}
+
 #create_country_leader = {
 #	name = "Eusebio Ayala"
 #	desc = "POLITICS_EUSEBIO_AYALA_DESC"
