@@ -75,6 +75,10 @@ set_popularities = {
 	neutrality = 100
 }
 
+add_ideas = {
+	nerf
+}
+
 create_country_leader = {
 	name = "José Luis Tejada Sorzano"
 	desc = "POLITICS_JOSE_LUIS_TEJADA_SORZANO_DESC"
